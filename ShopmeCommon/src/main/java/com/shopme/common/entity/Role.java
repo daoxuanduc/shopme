@@ -11,6 +11,7 @@ import javax.persistence.Table;
 
 @Entity
 //test push
+//push from hblab
 @Table(name = "roles")
 public class Role {
     @Id
